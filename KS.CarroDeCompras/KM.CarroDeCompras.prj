@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>carrodecompras</name>
+   <name>KM.CarroDeCompras</name>
    <tag></tag>
-   <UUID>6d0e786a-16e0-4f01-afa3-0034cd5b2812</UUID>
+   <UUID>bc846cc2-0f3b-4600-8d41-3f831d0caa72</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\smontest\Katalon Studio\KM.CarroDeCompras\KM.CarroDeCompras.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>
